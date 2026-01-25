@@ -8,7 +8,9 @@
 
 ### ● THE STACK
 **Languages**: TypeScript, JavaScript, HTML, CSS
+
 **Frameworks**: React, Next.js, Tailwind
+
 **Design and animations**: Figma, Framer motion, Gimp
 
 ### ● CONNECT
@@ -16,7 +18,9 @@
 If you are looking for a dedicated developer who values quality and precision, let's connect.
 
 [**Email**](mailto:benjaminfriasdev@gmail.com)
+
 [**Portfolio**](https://benjaminfriasdev.com)
+
 [**LinkedIn**](https://linkedin.com/benjaminfriasdev)
 
 
