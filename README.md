@@ -20,7 +20,7 @@
 ***I am currently open to new opportunities and collaborations.***
 If you are looking for a dedicated developer who values quality and precision, let's connect.
 
-[**Email**](mailto:benjaminfriasdev@gmail.com) - [**LinkedIn**]((https://www.linkedin.com/in/benjamin-frias-31ab48392/))
+[**Email**](mailto:benjaminfriasdev@gmail.com) - [**LinkedIn**](https://www.linkedin.com/in/benjamin-frias-31ab48392/)
 
 
 <!--
